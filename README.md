@@ -1,5 +1,5 @@
 # Netflix UI Clone 🎬
-
+![App Screenshot](./assets/images/screenshot-clone.png)
 A modern, responsive recreation of the Netflix landing page. This project focuses on building a pixel-perfect user interface and mastering complex CSS layouts.
 
 ## 🚀 Features
